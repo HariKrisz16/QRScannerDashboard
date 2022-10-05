@@ -1,2 +1,1 @@
-# QRScannerDashboard
-QRScannerDashboard
+# QRApp
